@@ -1,7 +1,5 @@
 Hi there, I'm John 👋
 
-<!--
-**Purgatos81/Purgatos81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Currently learning Web Development!
 
