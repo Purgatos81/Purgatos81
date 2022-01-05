@@ -9,8 +9,6 @@ Currently learning Web Development!
 - 💬 Ask me about - Whatever, I'll try to help
 - 📫 How to reach me - (Fill in later)  
 
-JavaScript   10 hrs 14 mins  █████████████████▒░░░░░░░   69.35 % 
-JSX          2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-TypeScript   1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
